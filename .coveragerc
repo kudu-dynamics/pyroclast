@@ -1,0 +1,5 @@
+[report]
+omit =
+  pyroclast/__main__.py
+  pyroclast/schedule.py
+  */tests/*
